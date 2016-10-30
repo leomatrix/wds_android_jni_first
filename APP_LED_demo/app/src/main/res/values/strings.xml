@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">APP_LED_demo</string>
+    <string name="action_settings">Settings</string>
+</resources>
